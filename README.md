@@ -5,6 +5,9 @@ The ideas for designing node and edge features in this project were inspired by:
 
 Usage
 1. Preprocess the Data
-Prepare the raw molecular datasets by running the preprocessing script: dataset.py
-2. Train the Model
-Train one of the GNN models (e.g., GAT, GATv2, GCN) by running: model 
+   Prepare the raw molecular datasets by running the preprocessing script: dataset.py
+2. Construct the Model
+   Construct the Model using model.py
+4. Train the Model
+   Train and evaluate one of the GNN models (e.g., GAT, GATv2, GCN) using train.py
+
