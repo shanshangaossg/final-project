@@ -1,0 +1,7 @@
+pytorch
+torch-geometric
+rdkit
+numpy
+pandas
+matplotlib
+tqdm
